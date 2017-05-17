@@ -1,3 +1,6 @@
+#EXPERIMENTAL - Doesn't work that well currently
+#Made by Liam Nakagawa 2017
+
 from __future__ import print_function
 
 import argparse
